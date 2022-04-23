@@ -1,0 +1,15 @@
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\bin\Release\net6.0\ConsoleAppAkulova.exe
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\bin\Release\net6.0\ConsoleAppAkulova.deps.json
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\bin\Release\net6.0\ConsoleAppAkulova.runtimeconfig.json
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\bin\Release\net6.0\ConsoleAppAkulova.dll
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\bin\Release\net6.0\ConsoleAppAkulova.pdb
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.csproj.AssemblyReference.cache
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.AssemblyInfoInputs.cache
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.AssemblyInfo.cs
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.csproj.CoreCompileInputs.cache
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.dll
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\refint\ConsoleAppAkulova.dll
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.pdb
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ConsoleAppAkulova.genruntimeconfig.cache
+D:\CourseC#\lesson2\ConsoleAppAkulova\ConsoleAppAkulova\obj\Release\net6.0\ref\ConsoleAppAkulova.dll
